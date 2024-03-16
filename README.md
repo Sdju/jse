@@ -5,7 +5,8 @@
 JSE - сборная солянка для упрощения изучения работы и внутреннего устройства различных движков и рантаймов (в процессе) JS.
 
 ## Общее
-- JS Engines/Runtimes list 
+- JS Engines/Runtimes list
+	- https://github.com/errilaz/awesome-js-runtimes
 	- https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a
 
 - База по движкам 
